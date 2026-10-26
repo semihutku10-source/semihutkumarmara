@@ -1,0 +1,6 @@
+{
+  "name": "Semih Utku - Spor Yöneticiliği Ders Notları ve Programı",
+  "description": "Semih Utku için Marmara Üniversitesi Spor Yöneticiliği ders programı, görsel ve yazılı ders notu yönetim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
